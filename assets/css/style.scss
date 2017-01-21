@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+	-webkit-font-smoothing: subpixel-antialiased;
+}
+
+section {
+	padding-bottom: 20px;
+}
+
+footer {
+	width: 270px;
+	bottom: 50px;
+	margin: 0 auto;
+	-webkit-font-smoothing: subpixel-antialiased;
+}
