@@ -4,16 +4,22 @@
 @import "{{ site.theme }}";
 
 header {
+    width: 1000px;
+    position: relative;
 	-webkit-font-smoothing: subpixel-antialiased;
 }
 
 section {
+    width: 1000px;
 	padding-bottom: 20px;
+    position: relative;
+    float: left;
 }
 
 footer {
-	width: 270px;
-	bottom: 50px;
+    width: 1000px;
 	margin: 0 auto;
+    bottom: 0px;
+    position: relative;
 	-webkit-font-smoothing: subpixel-antialiased;
 }
