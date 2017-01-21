@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+p {
+    font-size: 16px;
+}
+
 header {
     width: 1000px;
     position: relative;
