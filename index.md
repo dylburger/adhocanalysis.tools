@@ -1,4 +1,4 @@
-## adhocanalysis.tools
+## adhocanalysis.tools - Evangelizing simple data tools
 
 Everyone should be empowered to ask and answer the questions they need to do their job. 
 
