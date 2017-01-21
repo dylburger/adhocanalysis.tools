@@ -1,10 +1,10 @@
-## Evangelizing simple data tools
+## Evangelizing simpler data analysis
 
 Everyone should be empowered to ask and answer the questions they need to do their job. 
 
 Often, people don’t have the right tools, skills or data to ask those questions, so they have to bug someone else for answers. This wastes time for the person asking the question and the one doing the work. We need tools that enable everyone, especially the non-technical, to make smart decisions with data.
 
-For most people, Excel is this tool. Excel is simple but powerful. It helps businesses who can’t afford to hire their own analysts to analyze the business themselves (and they know it better than anyone). As long as your business can be simplified to rows and columns of data, you can ask incredibly abstract questions.
+For most people, this tool is Excel. Excel is simple but powerful. It enables individuals with the power to do complex analysis themselves. It helps businesses who can’t afford to hire their own analysts to analyze the business themselves (and they know it better than anyone). As long as your business can be simplified to rows and columns of data, you can ask incredibly abstract questions.
 
 But for a growing set of companies, Excel isn’t the right tool. The business might store its data in a database that Excel can’t connect to. The data might be so large Excel crashes under load. Or you might just have too many people working with data that they’re duplicating work, generating the same charts or doing the same analysis for different teams. You want to facilitate the sharing of this knowledge between teams.
 
