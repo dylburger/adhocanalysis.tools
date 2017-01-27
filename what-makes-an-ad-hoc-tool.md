@@ -20,9 +20,7 @@ Tableau fails this test. Tristan Handy of Fishtown Analytics [puts it best](http
 
 Any general purpose programming language, like Python, also qualifies. You can interactively load and query data, slicing and dicing it in any way. Programming environments like [RStudio](https://www.rstudio.com/) and [Jupyter notebooks](http://jupyter.org/) facilitate such analysis for analysts and data scientists.
 
-Tools like [Periscope](https://www.periscopedata.com/) and [Mode Analytics](https://modeanalytics.com/) make ad hoc analysis even easier. You can quickly produce charts and share insights with others, but only if you know SQL.
-
-If you have to write code to ask questions, the business can’t use the tool. For everyone to get the data they need to do their jobs, we need a simpler interface.
+Tools like [Periscope](https://www.periscopedata.com/) and [Mode Analytics](https://modeanalytics.com/) make ad hoc analysis even easier. You can quickly produce charts and share insights with others, but only if you know SQL. If you have to write code to ask questions, the business can’t use the tool. For everyone to get the data they need to do their jobs, we need a simpler interface.
 
 If you can ask questions _without_ writing code, you have a _general_ ad hoc analysis tool: one that can be used by the general public. [Excel](https://products.office.com/en-us/excel), [Looker](https://looker.com/), [Superset](http://airbnb.io/superset/) and [Metabase](http://www.metabase.com/) all pass this test.
 
