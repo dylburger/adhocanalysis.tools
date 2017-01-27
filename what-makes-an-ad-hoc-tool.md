@@ -4,6 +4,14 @@ What is an ad hoc analysis tool? What makes these tools useful for the average u
 
 **An analysis tool qualifies as "ad hoc" if you can answer arbitrary questions**. You’re not limited to seeing fixed charts and dashboards - you can explore data on your own.
 
+Consider the business of Uber. Employees may want to ask questions like:
+
+* How long is the average ride in LA?
+* How many rides does the average user take in one month?
+* Has the average cost of a ride in San Francisco increased or decreased over the past year?
+
+If you can't answer questions like this - and questions that get more nuanced as your business becomes more complex - you don't have an ad hoc analysis tool.
+
 A database like [MySQL](https://www.mysql.com/) is an ad hoc tool. Given the right data model, you can ask almost any question with SQL.
 
 Tableau fails this test. Tristan Handy of Fishtown Analytics [puts it best](https://blog.fishtownanalytics.com/is-looker-the-right-business-intelligence-tool-for-my-company-afc1f750a0f9):
