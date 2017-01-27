@@ -42,7 +42,7 @@ We can assign rough scores to these criteria - values from 0 to 10 - and compare
 
 <img align="center" src="assets/img/comparison-of-python-and-looker.png" alt="Comparison of Python and Looker" width="400" height="314">
 
-Of all these criteria, **reach is the most important**. When more people can ask questions, they generate and share more ideas. Others iterate on the original ideas to improve them. The broader the reach of your analysis tool, the larger the [network effect](https://en.wikipedia.org/wiki/Network_effect).
+Of all these criteria, **reach is the most important**. It's important to provide these tools not only to the analysts that are _expected_ to have them, but also to the account managers, sales people, and product managers who need these tools to do their jobs effectively. When more people can ask questions, they generate and share more ideas. Others iterate on the original ideas to improve them. The broader the reach of your analysis tool, the larger the [network effect](https://en.wikipedia.org/wiki/Network_effect).
 
 ![Network Effect of Data Democratization](assets/img/network-effect.png)
 
