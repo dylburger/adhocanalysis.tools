@@ -2,7 +2,7 @@
 
 What is an ad hoc analysis tool? What makes these tools useful for the average user, and what makes these tools truly good?
 
-**An analysis tool qualifies as "ad hoc" if you can answer arbitrary questions**. You’re not limited to seeing fixed charts and dashboards - you can explore data on your own.
+**An analysis tool qualifies as "ad hoc" if you can use it to answer arbitrary questions**. You’re not limited to seeing fixed charts and dashboards - you can explore data on your own.
 
 Consider the business of Uber. Employees may want to ask questions like:
 
